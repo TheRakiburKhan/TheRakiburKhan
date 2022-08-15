@@ -2,15 +2,22 @@
 
 I'm Rakibur Khan a iOS Developer. I spend most of the time learing and creating amazing projects.
 
-:mailbox: Reach me out!
+:mail: Reach me out!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheRakiburKhan?style=social)](https://twitter.com/intent/follow?screen_name=TheRakiburKhan) [![GitHub followers](https://img.shields.io/github/followers/TheRakiburKhan?style=social)](https://github.com/badges/shields/fork) [![Linkedin Badge](https://img.shields.io/badge/-TheRakiburKhan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheRakiburKhan) [![Mail Badge](https://img.shields.io/badge/-@TheRakiburKhan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/TheRakiburKhan) [![Mail Badge](https://img.shields.io/badge/-TheRakiburKhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:therakiburkhan@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheRakiburKhan?style=social)](https://twitter.com/intent/follow?screen_name=TheRakiburKhan) [![GitHub followers](https://img.shields.io/github/followers/TheRakiburKhan?style=social)](https://github.com/badges/shields/fork) [![Linkedin Badge](https://img.shields.io/badge/-TheRakiburKhan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheRakiburKhan) [![Mail Badge](https://img.shields.io/badge/-TheRakiburKhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:therakiburkhan@gmail.com)
 
-<!-- TODO: Add last video link -->
+I am a mobile application developer with huge love for SwiftUI, Android, Kotlin, RDBMS, C, Python, Software system design, Software architecture and Clean Coding.
 
-- 🔭 I’m currently working at @NexGenCommunication
+Started my journey with competitive programming and slowly gained interest in software designing and deployment. Started my professional jourey as an iOS developer and still persuing.
+
+**I'm open to work and employment opportunities**.
+
+- 🔭 I’m currently working at @EasitalTechnologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Blog ideas.
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 😄 Pronouns: He, Fat & Happy 😄
 - 📫 How to reach me: therakiburkhan@gmail.com.
 <!-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.-->
 - ⚡ Fun fact: I play video games and go on tours very often.
@@ -19,7 +26,7 @@ I'm Rakibur Khan a iOS Developer. I spend most of the time learing and creating 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Swift5](https://img.shields.io/badge/-Swift_5-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=#F05138)](#) [![SwiftUI](https://img.shields.io/badge/-SwiftUI-FFFFFF?style=for-the-badge&labelColor=black&logo=ios&logoColor=#000000)](#) [![UIKit](https://img.shields.io/badge/-UIKit-FFFFFF?style=for-the-badge&labelColor=black&logo=ios&logoColor=#000000)](#) [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#) [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=#3DDC84)](#) [![C](https://img.shields.io/badge/-C_Language-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=#A8B9CC)](#) [![Shell Script](https://img.shields.io/badge/-Shell_Script-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=#FCC624)](#)
+[![Swift5](https://img.shields.io/badge/-Swift_5-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=#F05138)](#) [![iOS](https://img.shields.io/badge/-iOS-FFFFFF?style=for-the-badge&labelColor=black&logo=apple&logoColor=#000000)](#) [![macOS](https://img.shields.io/badge/-macOS-FFFFFF?style=for-the-badge&labelColor=black&logo=apple&logoColor=#000000)](#) [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#) [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=#3DDC84)](#) [![C](https://img.shields.io/badge/-C_Language-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=#A8B9CC)](#) [![Shell Script](https://img.shields.io/badge/-Shell_Script-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=#FCC624)](#)
 
 <!--
 ### Tutorials
@@ -58,7 +65,7 @@ I'm Rakibur Khan a iOS Developer. I spend most of the time learing and creating 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=therakiburkhan..visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TheRakiburKhan.visitor-badge)
 
 <!--
 <details>
@@ -90,9 +97,12 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 >
 
-#### Github Stats
+### Numbers
+![TheRakiburKhan's github stats](https://github-readme-stats-therakiburkhan.vercel.app/api?username=TheRakiburKhan&show_icons=true&hide_border=true&count_private=true)
 
-![Ipenywis's github stats](https://github-readme-stats-therakiburkhan.vercel.app//api?username=TheRakiburKhan&count_private=true&theme=tokyonight&hide=contribs,prs)
+![TheRakiburKhan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=therakiburkhan&hide_border=true)
+
+![TheRakiburKhan's Top Languages](https://github-readme-stats-therakiburkhan.vercel.app/api/top-langs/?username=TheRakiburKhan&show_icons=true&hide_border=true&layout=compact)
 
 </details>
 
