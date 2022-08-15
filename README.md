@@ -104,6 +104,8 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![TheRakiburKhan's Top Languages](https://github-readme-stats-therakiburkhan.vercel.app/api/top-langs/?username=TheRakiburKhan&show_icons=true&hide_border=true&layout=compact)
 
+![TheRakiburKhan's wakatime stats](https://github-readme-stats-therakiburkhan.vercel.app/api/wakatime?username=TheRakiburKhan)
+
 </details>
 
 
