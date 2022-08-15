@@ -2,7 +2,7 @@
 
 I'm Rakibur Khan a iOS Developer. I spend most of the time learing and creating amazing projects.
 
-:mail: Reach me out!
+:mailbox: Reach me out!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheRakiburKhan?style=social)](https://twitter.com/intent/follow?screen_name=TheRakiburKhan) [![GitHub followers](https://img.shields.io/github/followers/TheRakiburKhan?style=social)](https://github.com/badges/shields/fork) [![Linkedin Badge](https://img.shields.io/badge/-TheRakiburKhan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheRakiburKhan) [![Mail Badge](https://img.shields.io/badge/-TheRakiburKhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:therakiburkhan@gmail.com)
 
