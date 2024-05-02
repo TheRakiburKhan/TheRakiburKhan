@@ -98,13 +98,13 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 >
 
 ### Numbers
-![TheRakiburKhan's github stats](https://github-readme-stats-therakiburkhan.vercel.app/api?username=TheRakiburKhan&show_icons=true&hide_border=true&count_private=true&theme=dracula)
+![TheRakiburKhan's github stats](https://github-stats.therakiburkhan.me/api?username=TheRakiburKhan&show_icons=true&hide_border=true&count_private=true&theme=dracula)
 
 ![TheRakiburKhan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=therakiburkhan&hide_border=true&theme=dracula)
 
-![TheRakiburKhan's Top Languages](https://github-readme-stats-therakiburkhan.vercel.app/api/top-langs/?username=TheRakiburKhan&show_icons=true&hide_border=true&layout=compact&theme=dracula)
+![TheRakiburKhan's Top Languages](https://github-stats.therakiburkhan.me/api/top-langs/?username=TheRakiburKhan&show_icons=true&hide_border=true&layout=compact&theme=dracula)
 
-![TheRakiburKhan's wakatime stats](https://github-readme-stats-therakiburkhan.vercel.app/api/wakatime?username=TheRakiburKhan&theme=dracula)
+![TheRakiburKhan's wakatime stats](https://github-stats.therakiburkhan.me/api/wakatime?username=@TheRakiburKhan&theme=dracula)
 
 </details>
 
